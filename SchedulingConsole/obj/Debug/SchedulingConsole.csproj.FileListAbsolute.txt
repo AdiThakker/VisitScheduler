@@ -1,0 +1,12 @@
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\bin\Debug\SchedulingConsole.exe.config
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\bin\Debug\SchedulingConsole.exe
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\bin\Debug\SchedulingConsole.pdb
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\bin\Debug\SchedulingService.dll
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\bin\Debug\FSharp.Core.dll
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\bin\Debug\SchedulingService.pdb
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\bin\Debug\SchedulingService.xml
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\bin\Debug\FSharp.Core.xml
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\obj\Debug\SchedulingConsole.csprojResolveAssemblyReference.cache
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\obj\Debug\SchedulingConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\obj\Debug\SchedulingConsole.exe
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingConsole\obj\Debug\SchedulingConsole.pdb

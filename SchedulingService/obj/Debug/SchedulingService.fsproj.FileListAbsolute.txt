@@ -1,0 +1,9 @@
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\bin\Debug\SchedulingService.XML
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\bin\Debug\SchedulingService.dll
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\bin\Debug\SchedulingService.pdb
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\bin\Debug\FSharp.Core.dll
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\bin\Debug\System.ValueTuple.dll
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\bin\Debug\FSharp.Core.xml
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\obj\Debug\SchedulingService.fsproj.CoreCompileInputs.cache
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\obj\Debug\SchedulingService.dll
+C:\Users\Aditya Thakker\MEDsys\Source\Repos\Projects\Scheduling\SchedulingService\obj\Debug\SchedulingService.pdb
